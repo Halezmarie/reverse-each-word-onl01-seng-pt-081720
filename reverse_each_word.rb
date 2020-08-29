@@ -4,3 +4,5 @@ def reverse_each_word(sentence)
 end
   reversed.join(" ")
 end 
+# reverse_each_word("Hello there, and how are you?")
+  #=> "olleH ,ereht dna woh era ?uoy"
